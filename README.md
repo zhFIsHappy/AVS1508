@@ -1,13 +1,12 @@
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zhehao(Frank)</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Zhehao() -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to investigate ambiguous situations and find software solutions for product needs.\
-🎓 &nbsp;I am Graduating from Virginia Tech, majoring in Computer Science. Earned my Bachelor's of Computer Science at University of California, Davis .\
+🎓 &nbsp; Master of Engineering in Computer Science at Virginia Tech, Bachelor's of Science in Computer Science in Unviersity of California, Daivs.\
 🌱 &nbsp;I am learning about AI & ML, as well as microservices, which can be integrated into my daily software development tasks.\
 ✍️ &nbsp;In my free time, I enjoy working out and hang out with my family\
 💬 &nbsp;Feel free to reach out to me for new Software Engineering Opportunities\
